@@ -12,7 +12,7 @@ type circleProps={
     animatedProps:any
 }
 export default function AnimatedEllipseComponent(props:circleProps) {
-    console.log("hello from ellipse");
+
 
   return (
     <View style={styles.container}>
