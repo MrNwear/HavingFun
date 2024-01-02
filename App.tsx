@@ -1,8 +1,8 @@
-import AnimatedPropsPractice from './src/practice/animatedProps';
+import AnimatedStylePractice from './src/practice/animatedStyle';
 
 export default function App() {
   
   return(
-    <AnimatedPropsPractice/>
+    <AnimatedStylePractice/>
   )
 }
